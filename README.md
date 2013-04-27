@@ -11,9 +11,9 @@ Chrome extension that provides a simple text field on click.
 ## Pitch
 
 Haven't you ever had ideas flying in your mind all day ? 
-How should I name this new framework ? this new application ? how would its url look ?
+<i>How should I name this new framework ? this new application ? how would its url look ?</i>
 Then you find yourself sketching stuff in a text editor and switching back all the time to your browser. 
-What if you could do that right from your favourite browser ? Wouldn't it be marvellous ? 
+What if you could do that right from your favorite browser ? Wouldn't it be marvellous ? 
 Thanks to Text-Field you can do just that. It was made to capture your daydreams.
  
 ## Typical usage 
@@ -32,5 +32,5 @@ Thanks to Text-Field you can do just that. It was made to capture your daydreams
 * The cursor always points to the first line of the textarea.
 
 ## Issues
-Related chromium bug to track : 
+Related chromium bug : 
 <https://code.google.com/p/chromium/issues/detail?id=225917>
