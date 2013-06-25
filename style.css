@@ -1,0 +1,65 @@
+body{
+    width:300px;
+    height:100%;
+    font-family: courier, arial;
+}
+
+#textarea {
+    width:97%;
+    height:100%;
+    border:1px solid #ddd;
+    padding:3px;
+    max-height:600px;
+}
+
+.footer{
+   font-size:11px;  
+}
+
+.clear-tgr{
+    float:right;
+    right:2px;
+    top:2px;
+    color:#777;
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+textarea[readonly]{
+    background:#ddd;
+}
+
+.message{
+    color:red;
+    margin-top:5px;
+    clear:both;
+    float:left;
+    margin-bottom:3px;
+}
+
+.update_link{
+    float:left;
+    width: 120px;
+}
+
+.content{
+    overflow:auto;
+    font-size:12px;
+    resize:both;
+}
+
+.hide-tgr{
+    float:left;
+    margin-right: 3px;
+    color:#777;
+}
+
+.update_area{
+    float:left;
+    width:155px;
+}
+
+.date{
+    color:#777;
+    margin:10px 0 10px 0;
+}
