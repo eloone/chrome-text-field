@@ -1,4 +1,4 @@
-#CHROME TEXT-FIELD
+# CHROME TEXT-FIELD
 
 Chrome extension that provides a simple text field on click.
 
